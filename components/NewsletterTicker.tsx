@@ -35,25 +35,25 @@ export default function РассылкаTicker() {
   return (
     <div ref={newsletterText} className="flex bg-black text-white py-5">
       <span className="flex gap-2 pr-6">
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
-        <p className="font-semibold text-2xl uppercase">Рассылка+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
+        <p className="font-semibold text-2xl uppercase">Связаться+++</p>
       </span>
     </div>
   );
