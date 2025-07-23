@@ -116,7 +116,7 @@
   }
   .text-subtitle,
   .text-footer-title {
-    font-size: clamp(2.625rem, 1.9917rem + 3.1667vw, 5rem);
+    font-size: clamp(2.625rem, 1rem + 1vw, 5rem);
     font-weight: 600;
     text-transform: uppercase;
   }
