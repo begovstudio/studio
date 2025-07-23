@@ -31,22 +31,22 @@ export default function NewsletterSignUp({
     resolver: zodResolver(subscribeNewsletterSchema),
   });
 
- const [state, handleSubmitSpree] = useFormSpree<TSubscribeNewsletterSchema>(
+ const [state, submitSpree] = useFormSpree<TSubscribeNewsletterSchema>(
     "mzzveraz"
   );
 
     const onSubmit = async (data: TSubscribeNewsletterSchema) => {
-    const res = await handleSubmitSpree({ email: data.email });
-    if (res?.errors) {
-      const errors = res.errors as Record<string, string>;
-      if (errors.email) {
-       setError("email", { type: "server", message: errors.email });
-      
-    } else if (res?.ok) {
-      
+    await submitSpree({ email: data.email });
+
+    if (state.succeeded) {
+      reset();
+    } else if (state.errors) {
+      const emailErrors = state.errors.getFieldErrors("email");
+      if (emailErrors.length > 0) {
+        setError("email", { type: "server", message: emailErrors[0].message });
       }
     }
-    // reset();
+   
   };
 
   return (
