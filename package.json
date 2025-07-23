@@ -1,6 +1,6 @@
 {
-  "name": "fyrre-magazine",
-  "version": "0.1.0",
+  "name": "begovstudio",
+  "version": "1.18.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
