@@ -147,7 +147,7 @@
       {
         "title": "MSK Sarmat",
         "popular": true,
-        "popularity": 5,
+        "popularity": 6,
         "description": "Msk-sarmat.ru - сайт поставщика IT оборудования.",
         "date": "Май 2020",
         "read": "14 mins",
@@ -180,7 +180,7 @@
       {
         "title": "RusalMix",
         "popular": true,
-        "popularity": 6,
+        "popularity": 7,
         "description": "Rusalmix.ru - портал поставщика асфальтобетонных заводов.",
         "date": "Декабрь 2023",
         "read": "2 mins",
@@ -213,7 +213,7 @@
       {
         "title": "DveriBrend",
         "popular": true,
-        "popularity": 7,
+        "popularity": 8,
         "description": "Dveribrend.ru - интернет-магазин по продаже индивидуальных и заводских дверей.",
         "date": "июнь 2018",
         "read": "2 mins",
@@ -246,8 +246,8 @@
       {
         "title": "ALM Group",
         "popular": true,
-        "popularity": 8,
-        "description": "ALM-Group.ru - Корпоративный сайт продукции «АЛМ» для гидроизоляции и ремонта.",
+        "popularity": 5,
+        "description": "ALM-Gr.ru - Корпоративный сайт продукции «АЛМ» для гидроизоляции и ремонта.",
         "date": "январь 2025",
         "read": "2 mins",
         "label": "Корпоративный",
