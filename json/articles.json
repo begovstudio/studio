@@ -242,6 +242,39 @@
             "section2": "Админ панель и CRM система."
           }
         ]
+      },
+      {
+        "title": "ALM Group",
+        "popular": true,
+        "popularity": 8,
+        "description": "ALM-Group.ru - Корпоративный сайт продукции «АЛМ» для гидроизоляции и ремонта.",
+        "date": "январь 2025",
+        "read": "2 mins",
+        "label": "Корпоративный",
+        "img": "/images/screen/alm-minb.jpg",
+        "imgAlt": "Screenshot of ALM-Group.ru",
+        "slug": "alm",
+        "content": [
+          {
+            "img": "/images/screen/alm-fullb.jpg",
+            "summary": "«Архитектурно-реставрационная компания» занимается производством и продажей продукции торговой марки АЛМ."
+          },
+          {
+            "section1": "Технологии: TypeScript, Next.js React, HTML, CSS, "
+          },
+          {
+            "quote": [
+              "Быстро и со вкусом",
+              "Отзывы клиентов"
+            ]
+          },
+          {
+            "summary2": "Адаптивный дизайн и SEO‑оптимизация."
+          },
+          {
+            "section2": "Демонстрирует преимущества продукта."
+          }
+        ]
       }
     ]
   }
